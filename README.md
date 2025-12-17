@@ -3,7 +3,7 @@
 ## Description
 This python script is a simple Rubik's Cube Timer as a terminal application.
 
-#### Keybindings
+### Keybindings
 - space   = Start
 - i = inspection (15s)
 - r = reset
@@ -11,9 +11,12 @@ This python script is a simple Rubik's Cube Timer as a terminal application.
 - a = stats
 - q = quit
 - l = list
+- h = help
 
 ### How to execute the script
-`python3 timer.py`
+``
+python3 timer.py
+``
 
 ## Screenshot
 ![image info](./screenshot.png)
